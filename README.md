@@ -15,11 +15,9 @@ Bu proje, Terfi projem olarak hazırlanmış olup, web ve mobil platformlarla uy
 - [İletişim](#iletişim)
 
 ## Özellikler
-- **Çalışan Yönetimi**: Çalışan bilgilerini ekleme, güncelleme ve silme işlemleri.
-- **Terfi Kriterleri**: Terfi kriterlerini tanımlama ve düzenleme.
-- **Performans Değerlendirmesi**: Çalışanların performans değerlendirmelerini kaydetme ve izleme.
-- **Terfi Süreci İzleme**: Terfi süreçlerini izleme ve yönetme.
+- **Çalışan Yönetimi**: Catchy Labs üzerinden bir hesap makinesinin fonksiyonlarının testi.
 - **Platform Uyumluluğu**: Web ve mobil cihazlarla uyumlu responsive tasarım.
+- **Cross Platform Yapısı**: Proje içerisinde Chrome, Firefox ve Edge driverlardan seçime göre çalıştırılabilme.
 - **Test Otomasyonu**: Gauge ve Selenium ile kapsamlı test otomasyonu desteği.
 
 ## Kurulum
