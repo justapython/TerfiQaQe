@@ -82,6 +82,25 @@ TerfiQaQe, hem Web hem de MobilWeb platformlarında uyumlu bir şekilde çalış
 
 Her bir tarayıcı için uyumlu sürümlerle testlerinizi çalıştırabilir ve platformlar arası geçişler ile kullanıcı deneyimini analiz edebilirsiniz.
 
+Örnek Kullanım (Microsoft Edge) Tarayıcısında Kullanım;
+Ide üzerinden powershell açılır 
+
+   ```bash
+   set browser=EDGE
+   ```
+Sonrasında;
+
+  ```bash
+   mvn clean test
+   ```
+Ya da; 
+
+```bash
+   mvn clean test -P edge -Dbrowser=EDGE
+   ```
+
+Ek olarak farklı run tipleri oluşturarak her run tipine farklı bir tarayıcı eklemesi yapılabilir.
+
 
 ### Spec Dosyaları
 Test senaryolarının tanımlandığı dosyalardır.
