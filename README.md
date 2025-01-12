@@ -1,6 +1,6 @@
 # TerfiQaQe Projesi
 
-Bu proje, Terfi projem olarak hazırlanmış olup, web ve mobil platformlarla uyumlu, esnek ve ölçeklenebilir bir otomasyon çözümüdür.
+Bu proje, Terfi projem olarak hazırlanmış olup, web ve mobil platformlarla uyumlu, cross platformlarda çalışabilen, esnek ve ölçeklenebilir bir otomasyon çözümüdür.
 
 ## İçindekiler
 - [Özellikler](#özellikler)
