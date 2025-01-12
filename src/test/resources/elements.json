@@ -1,0 +1,127 @@
+{
+  "CatchyLabsLoginEkranıUsernameTextBox":
+  {
+    "locatorType": "xpath",
+    "value": "//input[@placeholder=\"Username\"]"
+  },
+  "CatchyLabsLoginEkranıPasswordTextBox":
+  {
+    "locatorType": "xpath",
+    "value": "//input[@placeholder=\"Password\"]"
+  },
+  "CatchyLabsLoginEkranıLoginButton":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='Login']"
+  },
+  "CatchyLabsOpenCalculatorButton":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='Open Calculator']"
+  },
+  "CatchyLabsLoginEkranıLoginButton":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='Login']"
+  },
+  "AC":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='AC']"
+  },
+  "0":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='0']"
+  },
+  "1":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='1']"
+  },
+  "2":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='2']"
+  },
+  "3":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='3']"
+  },
+  "4":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='4']"
+  },
+  "5":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='5']"
+  },
+  "6":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='6']"
+  },
+  "7":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='7']"
+  },
+  "8":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='8']"
+  },
+  "9":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='9']"
+  },
+  "ArtıEksi":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='+/-']"
+  },
+  "Bölme":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='/']"
+  },
+  "Çarpma":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='*']"
+  },
+  "Çıkarma":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='-']"
+  },
+  "CatchyLabsHesaplaButton":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='=']"
+  },
+  "CatchyLabsHesaplamaİslemiSonucText":
+  {
+    "locatorType": "xpath",
+    "value": "//span[@class='css-1jxf684 r-zz5t5d r-vw2c0b r-1ff274t']"
+  },
+  "CatchyLabsHesapSonrasıLimitAşımıHataMesajı":
+  {
+    "locatorType": "xpath",
+    "value": "//div[@class='css-146c3p1 r-howw7u r-1b43r93']"
+  },
+  ",":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()=',']"
+  },
+  "Toplama":
+  {
+    "locatorType": "xpath",
+    "value": "//div[text()='+']"
+  }
+}

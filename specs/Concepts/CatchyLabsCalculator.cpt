@@ -1,0 +1,44 @@
+Created by furkan.bicer on 11.01.2025
+
+This is a concept file with following syntax for each concept.
+# Catchy Labs sitesine gidilir ve login islemi gerceklestirilir
+* URL adresine gidilir "https://catchylabs-webclient.testinium.com/"
+* "CatchyLabsLoginEkranıUsernameTextBox" elementinin tıklanabilir olduğu kontrol edilir "20"
+* "CatchyLabsLoginEkranıUsernameTextBox" elementine "BİÇER" değeri yazılır
+* "CatchyLabsLoginEkranıPasswordTextBox" elementinin tıklanabilir olduğu kontrol edilir "20"
+* "CatchyLabsLoginEkranıPasswordTextBox" elementine "Jujutsu.Kaisen35?" değeri yazılır
+* "CatchyLabsLoginEkranıLoginButton" elementinin tıklanabilir olduğu kontrol edilir "20"
+* "CatchyLabsLoginEkranıLoginButton" elementine tıklanır
+* "CatchyLabsOpenCalculatorButton" elementinin tıklanabilir olduğu kontrol edilir "20"
+* "CatchyLabsOpenCalculatorButton" elementine tıklanır
+* "AC" elementinin tıklanabilir olduğu kontrol edilir "20"
+
+# Catchy Labs hesap makinası üzerinde maksimum limite ulaşacak bir işlem girişi yapılır
+* "CatchyLabsCarpmaİslemiButton" elementine tıklanır
+* "CatchyLabsHesapMakinasıNumber5Button" elementine "1" kadar tıklanır
+
+# Catchy Labs hesap makinasında sayı girişi için <key> sayısından <text> adet gönderilir
+* <key> elementine <text> kadar tıklanır
+
+# Catchy Labs hesap makinasında <key> işlemi seçilir
+* <key> elementine tıklanır
+
+# Catchy Labs hesap makinasında hesaplama işlemi yapılır
+* "CatchyLabsHesaplaButton" elementine tıklanır
+
+# Catchy Labs hesap makinasında virgül değeri gönderilir
+* "," elementine tıklanır
+
+# Catchy Labs hesaplama işleminden sonra sonucun <text> döndüğü kontrol edilir
+* "CatchyLabsHesaplamaİslemiSonucText" elementin görünür olduğu kontrol edilir "10"
+* "CatchyLabsHesaplamaİslemiSonucText" elementinin text değeri <text> değerini içeriyor mu kontrol et
+
+# Catchy Labs hesap makinası üzerinde maksimum limitin üstüne geçecek bir işlem girişi yapılır
+* "CatchyLabsHesapMakinasıNumber9Button" elementine "309" kadar tıklanır
+
+# Catchy Labs sınırı aşan hesaplama işleminden sonra hata mesajının <text> olduğu kontrol edilir
+* "CatchyLabsHesapSonrasıLimitAşımıHataMesajı" elementin görünür olduğu kontrol edilir "20"
+* "CatchyLabsHesapSonrasıLimitAşımıHataMesajı" elementinin text değeri <text> değerini içeriyor mu kontrol et
+
+# Catchy Labs hesap işleminden sonra sonucun boş olduğu kontrol edilir
+* "CatchyLabsHesaplamaİslemiSonucText" elementin görünür olmadığı kontrol edilir "10"
