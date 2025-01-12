@@ -13,10 +13,6 @@ This is a concept file with following syntax for each concept.
 * "CatchyLabsOpenCalculatorButton" elementine tıklanır
 * "AC" elementinin tıklanabilir olduğu kontrol edilir "20"
 
-# Catchy Labs hesap makinası üzerinde maksimum limite ulaşacak bir işlem girişi yapılır
-* "CatchyLabsCarpmaİslemiButton" elementine tıklanır
-* "CatchyLabsHesapMakinasıNumber5Button" elementine "1" kadar tıklanır
-
 # Catchy Labs hesap makinasında sayı girişi için <key> sayısından <text> adet gönderilir
 * <key> elementine <text> kadar tıklanır
 
@@ -32,9 +28,6 @@ This is a concept file with following syntax for each concept.
 # Catchy Labs hesaplama işleminden sonra sonucun <text> döndüğü kontrol edilir
 * "CatchyLabsHesaplamaİslemiSonucText" elementin görünür olduğu kontrol edilir "10"
 * "CatchyLabsHesaplamaİslemiSonucText" elementinin text değeri <text> değerini içeriyor mu kontrol et
-
-# Catchy Labs hesap makinası üzerinde maksimum limitin üstüne geçecek bir işlem girişi yapılır
-* "CatchyLabsHesapMakinasıNumber9Button" elementine "309" kadar tıklanır
 
 # Catchy Labs sınırı aşan hesaplama işleminden sonra hata mesajının <text> olduğu kontrol edilir
 * "CatchyLabsHesapSonrasıLimitAşımıHataMesajı" elementin görünür olduğu kontrol edilir "20"
