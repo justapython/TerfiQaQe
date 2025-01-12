@@ -44,11 +44,8 @@ mvn clean install
 ## Kullanım
 ### Uygulamayı Başlatın:
 ```bash
-mvn spring-boot:run
+mvn clean test
 ```
-
-### Tarayıcıdan Erişin:
-[http://localhost:8080](http://localhost:8080) adresine giderek uygulamayı kullanmaya başlayabilirsiniz.
 
 ## Bağımlılıklar
 Proje, aşağıdaki ana bağımlılıkları içermektedir:
