@@ -143,3 +143,4 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır.
 
 ## İletişim
 Herhangi bir sorunuz veya öneriniz için lütfen **justapython** ile iletişime geçin.
+Mail adresi = furkanbicer803@gmail.com
