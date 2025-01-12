@@ -38,9 +38,6 @@ cd TerfiQaQe
 mvn clean install
 ```
 
-### Veritabanı Yapılandırması:
-`application.properties` dosyasında veritabanı bağlantı ayarlarınızı yapın ve gerekli tabloları oluşturun.
-
 ## Kullanım
 ### Uygulamayı Başlatın:
 ```bash
