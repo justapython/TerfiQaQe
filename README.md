@@ -9,6 +9,7 @@ Bu proje, Terfi projem olarak hazırlanmış olup, web ve mobil platformlarla uy
 - [Bağımlılıklar](#bağımlılıklar)
 - [Test Otomasyonu](#test-otomasyonu)
 - [Spec ve Concept Esnekliği](#spec-ve-concept-esnekligi)
+- [Cross-Platform Desteği](#cross-platform-desteği)
 - [Katkıda Bulunma](#katkıda-bulunma)
 - [Lisans](#lisans)
 - [İletişim](#iletişim)
