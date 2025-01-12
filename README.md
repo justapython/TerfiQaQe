@@ -74,6 +74,22 @@ TerfiQaQe, test otomasyonu için **Gauge** ve **Selenium** kullanmaktadır. Bu s
 - **Gauge**: Test senaryolarını `.spec` dosyalarında tanımlar ve tekrar kullanılabilir adımları `.cpt` uzantılı concept dosyalarında saklar. Bu yapı, testlerin modüler ve esnek olmasını sağlar.
 - **Element ve Dinamik Bekleme Süreleri**: Testlerde kullanılan elementler, JSON dosyasından alınır. Bu yapı, elementlerin ve işlemlerin her bir test durumuna göre dinamik bir şekilde yönetilmesini sağlar.
 
+  ### Cross-Platform Desteği
+
+TerfiQaQe, hem Web hem de MobilWeb platformlarında uyumlu bir şekilde çalışacak şekilde tasarlanmıştır. Bu sayede, web tarayıcıları ve mobil cihazlar arasında kesintisiz test senaryoları oluşturulabilir.
+
+- **Web Platformu**: Proje, Chrome, Firefox ve Edge gibi yaygın masaüstü tarayıcıları üzerinde test senaryolarını başarıyla çalıştırabilir. Testler, tarayıcılar arası uyumluluğu test etmek amacıyla farklı browser özellikleriyle yapılabilir.
+
+- **MobilWeb Platformu**: Web sürümünün yanı sıra, mobil cihazlar üzerinde de testler yapılabilir. Hem Android hem de iOS cihazlarında tarayıcı otomasyonu sağlanarak mobil kullanıcı deneyimi de test edilir.
+
+- **Çoklu Tarayıcı Desteği**: TerfiQaQe, aşağıdaki tarayıcılar için tam destek sunar:
+    - Google Chrome
+    - Mozilla Firefox
+    - Microsoft Edge
+
+Her bir tarayıcı için uyumlu sürümlerle testlerinizi çalıştırabilir ve platformlar arası geçişler ile kullanıcı deneyimini analiz edebilirsiniz.
+
+
 ### Spec Dosyaları
 Test senaryolarının tanımlandığı dosyalardır.
 ```gauge
